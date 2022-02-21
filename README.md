@@ -1,4 +1,4 @@
-# Her::Kaminari
+# Her::Kaminari2
 
 [![Gem Version](https://badge.fury.io/rb/her-kaminari.svg)](http://badge.fury.io/rb/her-kaminari)
 [![Build Status](https://travis-ci.org/DanielBlanco/her-kaminari.svg?branch=db%2Ftravis-coverall)](https://travis-ci.org/DanielBlanco/her-kaminari)
