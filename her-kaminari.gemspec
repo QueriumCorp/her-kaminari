@@ -4,8 +4,8 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'her/kaminari/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "her-kaminari"
-  spec.version       = Her::Kaminari::VERSION
+  spec.name          = "her-kaminari2"
+  spec.version       = Her::Kaminari2::VERSION
   spec.authors       = ["Daniel Blanco Rojas, Artur Hebda"]
   spec.email         = ["daniel.blancorojas@gmail.com"]
   spec.summary       = %q{Kaminari pagination for Her models.}
